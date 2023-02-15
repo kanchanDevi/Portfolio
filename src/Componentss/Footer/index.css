@@ -1,0 +1,16 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.icons-styles{
+    text-decoration: none;
+    color:black;
+    margin:10px;
+    font-size: 25px;
+}
+.para{
+    text-align: center;
+    padding-bottom:80px;
+
+}
