@@ -1,7 +1,7 @@
 import Projects from '../Projects/Projects';
 import { Link } from "react-router-dom";
 import './index.css';
-import Pic from '../../../../Public/assests/p-photo.png';
+import Pic from '../../../Public/assests/p-photo.png';
 
 const Home =()=>{
     return(
