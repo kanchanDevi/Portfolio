@@ -27,7 +27,8 @@ export const ProjectDetails=[
     {
         id:4,
         name:"BookHub",
-        desciption:"Implemented responsive Goodreads Clone where users can log in and see a list of books, bookshelves like all shelves (books sorted by rating), completed reading shelf, currently reading shelf, want to read shelf , and user can also search books with author's name and book's name",
+        desciption:"Implemented responsive Goodreads Clone where users can log in and see a list of books, bookshelves like all shelves (books sorted by rating), completed reading shelf, currently reading shelf, want to read shelf , and user can also search books with author's name and book's name.... Credential : UserName=rahul, Password-Rahul@2021",
+        
         link:"https://kanchanbookhub.ccbp.tech/login",
         image:"https://res.cloudinary.com/dwtsapuyn/image/upload/v1645073768/bookhub-image_ubswwx.png"
 
@@ -35,7 +36,7 @@ export const ProjectDetails=[
     {
         id:5,
         name:"Jobby App",
-        desciption:"Implemented Jobby App where users can log in and can see a list of jobs with search by Job title, filters based on Salary range and Employment type, etc",
+        desciption:"Implemented Jobby App where users can log in and can see a list of jobs with search by Job title, filters based on Salary range and Employment type, etc  Credential  : UserName=rahul, Password-Rahul@2021",
         link:"https://kanchanjobby.ccbp.tech/login",
         image:"https://assets.ccbp.in/frontend/react-js/logo-img.png"
 
