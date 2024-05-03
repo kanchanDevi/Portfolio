@@ -1,7 +1,6 @@
 import './App.css';
 import { createBrowserRouter, RouterProvider, Outlet } from "react-router-dom";
 import Header from './MyComponent/Main/Header'
-// import Contact from './MyComponent/Main/Contact'
 import About from './MyComponent/Main/About'
 import Error from './MyComponent/Main/Error'
 import Project from './MyComponent/Main/Project';
