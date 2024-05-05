@@ -7,7 +7,7 @@ import Contact from "./Contact";
 const About = () => {
   return (
     <>
-      <div className=" p-15 text-justify lg:flex flex-col  justify-center text-white p-28">
+      <div className=" p-10 text-justify lg:flex flex-col  justify-center text-white lg:p-28">
         <h2 className="text-center text-2xl">
           Know Who <span className="text-[#fcba03]"> I'M</span>
         </h2>
